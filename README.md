@@ -60,7 +60,6 @@ ethiopia-financial-inclusion-forecast/
 git clone "github_repo_name"
 
 # Setup environment
-cd ethiopia-financial-inclusion-forecast
 python -m venv .venv
 source .venv/bin/activate  # Windows: .venv\Scripts\activate
 
