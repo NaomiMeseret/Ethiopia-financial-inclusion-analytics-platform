@@ -1,0 +1,17 @@
+field,code,description
+record_type,observation,"Measured values from surveys, reports, operators"
+record_type,event,"Policies, product launches, market entries, milestones"
+record_type,impact_link,Modeled relationships between events and indicators
+record_type,target,Official policy goals
+pillar,Access,Account ownership and access indicators
+pillar,Usage,Digital payment usage and transaction indicators
+category,policy,Policy changes and regulatory actions
+category,product_launch,New product or service launches
+category,infrastructure,Infrastructure investments and upgrades
+category,market_entry,New company or service provider entry
+impact_direction,positive,Positive effect on indicator
+impact_direction,negative,Negative effect on indicator
+impact_direction,neutral,No significant effect
+confidence,high,High confidence in data/evidence
+confidence,medium,Medium confidence in data/evidence
+confidence,low,Low confidence in data/evidence
